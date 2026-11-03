@@ -3,8 +3,8 @@
   "short_name": "Özel Chat",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#121212",
-  "theme_color": "#00a884",
+  "background_color": "#0a0f14",
+  "theme_color": "#0f161d",
   "orientation": "portrait",
   "icons": [
     {
